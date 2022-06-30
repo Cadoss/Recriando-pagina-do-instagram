@@ -1,2 +1,2 @@
 # Recriando-pagina-do-instagram
-Desafio de projeto , recriando pagina do Instagram
+Desafio de projeto , recriando pagina do Instagram da DIO
