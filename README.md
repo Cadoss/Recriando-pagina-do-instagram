@@ -1,2 +1,2 @@
 # Recriando-pagina-do-instagram
-Desafio de projeto , recriando pagina do Instagram da DIO
+Desafio de projeto DIO , recriando pagina do Instagram usando flexbox CSS.
